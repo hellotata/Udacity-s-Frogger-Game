@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: grey;
+    font-family: 'Fira Sans', sans-serif;
+}
+h1 {
+    color: white;
+    bottom-border: none;
+    font-size: 2em;
+}
+
+#life,
+#score,
+#timer {
+    display: inline-block;
+    margin: 0 40px 0 40px;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#gameOver-message {
+    font-size: 2em;
+    font-weight: bold;
+}
