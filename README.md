@@ -1,3 +1,1 @@
 frontend-nanodegree-arcade-game
-===============================
-
